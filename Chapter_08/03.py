@@ -11,7 +11,7 @@ def main():
     years = 0
 
     while accumulated != x :
-        interest = (apr * 0.1) * amount
+        interest = (apr * 0.01) * amount
         accumulated = interest + amount
         amount = accumulated
         years = years + 1
