@@ -18,7 +18,6 @@ def main():
 
         if flag :
             print(num)
-
         num = num - 1 
 
 main()
