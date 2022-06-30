@@ -4,8 +4,6 @@ import pyinputplus as pip
 def main():
     num = pip.inputInt(prompt= 'Enter a number: ', min=3)
     
-    
-    
     while num > 1:
         flag = True
         y = int(m.sqrt(num))
