@@ -13,5 +13,5 @@ def main():
             break
         else:
             i += 1
-        print('Prime Number')
+    print('Prime Number')
 main()
